@@ -2,6 +2,7 @@
 This is the practice project for 《Data Structures and Algorithm Analysis in C++》, 3rd Edition
 ### Data Structure And Algorithm Analysis in C++
 
+
 #### Chapter 2 算法分析
 
 [随机数发生器及其简单应用](https://blog.csdn.net/qq_37172182/article/details/82971038)
@@ -99,5 +100,4 @@ This is the practice project for 《Data Structures and Algorithm Analysis in C+
 [数据结构与算法分析-C++描述 第10章 算法设计技巧（随机化算法之跳跃表）](https://blog.csdn.net/qq_37172182/article/details/90343491)
 
 [ 数据结构与算法分析-C++描述 第10章 算法设计技巧（回溯算法之公路收费点重建问题）](https://blog.csdn.net/qq_37172182/article/details/90450443)
-
 
